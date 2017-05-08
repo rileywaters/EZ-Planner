@@ -1,0 +1,6 @@
+<div id = "header">
+                    <button class ='homebtn' onclick ='location.href="http://google.com"'> Home </button>
+                    <button class ='myinfobtn' onclick ='location.href="http://google.com"'> myInfo </button>
+                    <button class ='myschedbtn' onclick ='location.href="http://google.com"'> mySchedule </button>
+                    <button class ='coursebtn' onclick ='location.href="http://google.com"'> Course Browser </button>
+            </div>

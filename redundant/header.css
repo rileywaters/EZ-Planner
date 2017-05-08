@@ -1,0 +1,57 @@
+html, body, #wrapper
+{ 
+    height: 100%;
+}
+            
+#header
+{ 
+    border-style: solid;
+    width: 100%;
+}
+
+.homebtn 
+{
+    background-color: black;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    margin-left: 20px;
+    display: inline-block;
+    border-radius: 50%;  
+}
+           
+.myinfobtn 
+{
+    background-color: black;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    margin-left: 15px;
+    display: inline-block;            
+}
+            
+.myschedbtn 
+{
+    background-color: black;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    display: inline-block;
+}
+
+.coursebtn 
+{
+    background-color: black;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    display: inline-block;
+}
